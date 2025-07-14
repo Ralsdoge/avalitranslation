@@ -7,7 +7,7 @@ This project was started in roughly 9/20/2024 although it could have been a bit 
 If you ever experience an issue where you can no longer open the program (instant crash) it is probably the ini file- it should automaticaly restore itself but maybe it broke some new way. Anything like that can be fixed by reinstalling the program for now but please if you can document your bug and how to recreate it, or at least the conditions it occured in and make a bug report through GitHub.
 
 Features:
-Font Translation: Using the avali scratch text (Galactic Common) to help you learn- or translate avali text. I will add an inverse of this for ease of use later.
+Font Translation: Using the avali scratch text (Galactic Common) to help you learn- or translate avali text. I will add an inverse of this for ease of use later. There is random text you can practice translating on, to add or replace the words, use the file random.md. Currently it is full of random stuff that I dont remeber the source of. 
 Pronunciation: Subs in how an avali would have to say certain things in speach since they can't pronounce certain letters.
 Numbers: Base 12 glyph number system. This was dificult to figure out but you can now put in any base 10 number. i.e 64 and get the avali (base 12) equivilant.
 User settings: Mostly a work in progress but you can change your theme for the application.
